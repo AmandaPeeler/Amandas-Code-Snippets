@@ -6,3 +6,8 @@ Im currently in my second yeah of my apprenticeship as an **IT Specialist for Ap
 <hr>
 
 ## My Projects 
+
+| Languages | Project |
+| --------- | ------- |
+|HTML / CSS | Traficlight system  |
+|HTML / CSS | internship progress site  |
